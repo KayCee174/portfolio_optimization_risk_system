@@ -1,0 +1,6 @@
+Strategy,VaR Forecast,Total Days,VaR Breaches,Observed Failure Rate,Kupiec p-value,Calibration Status
+Equal Weights,1.28%,906,31,3.42%,0.0211,Over-risked
+Min Variance,0.81%,906,44,4.86%,0.8422,Fail to Reject
+Max Sharpe,0.80%,906,48,5.30%,0.6834,Fail to Reject
+Min CVaR,0.81%,906,44,4.86%,0.8422,Fail to Reject
+Risk Parity,0.85%,906,44,4.86%,0.8422,Fail to Reject
